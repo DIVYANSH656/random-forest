@@ -1,0 +1,13 @@
+certifi
+Click
+Flask
+Flask-Cors==3.0.8
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+scikit-learn == 0.24.1
+scipy
+six
+Werkzeug
